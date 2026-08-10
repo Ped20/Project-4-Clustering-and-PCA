@@ -153,7 +153,7 @@ This module groups the 100 genotypes into clusters based only on their physical 
 
 ##### PCA Cluster Plot
 
-![K-Means clustering of 100 genotypes projected on PC1 and PC2](./result/PCA_plot.png)
+![K-Means clustering of 100 genotypes projected on PC1 and PC2](./result/pca_plot.png)
 
 *Shows:* Two-dimensional PCA view of the three clusters with concentration ellipses (300 dpi)
 
