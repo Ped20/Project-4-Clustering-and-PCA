@@ -139,9 +139,9 @@ This module groups the 100 genotypes into clusters based only on their physical 
 
 | Cluster | n | `L` (cm) | `B` (cm) | `SL` (cm) | `RL` (cm) | Performance tier |
 |---|:-:|:-:|:-:|:-:|:-:|---|
-| Cluster 3 | 27 | **96.43** | **9.48** | **67.72** | **30.40** | 🥇 High performers |
-| Cluster 1 | 36 | 90.31 | 8.43 | 62.91 | 28.03 | 🥈 Average |
-| Cluster 2 | 37 | 84.29 | 7.49 | 58.24 | 25.52 | 🥉 Low performers |
+| Cluster 3 | 27 | **96.43** | **9.48** | **67.72** | **30.40** |  High performers |
+| Cluster 1 | 36 | 90.31 | 8.43 | 62.91 | 28.03 |  Average |
+| Cluster 2 | 37 | 84.29 | 7.49 | 58.24 | 25.52 |  Low performers |
 
 **Key Findings:**
 
