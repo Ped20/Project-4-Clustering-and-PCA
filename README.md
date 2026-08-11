@@ -173,3 +173,10 @@ This module groups the 100 genotypes into clusters based only on their physical 
 4. **Caveats to report:** cluster borders overlap slightly, K-Means numbering is arbitrary (tiers must be assigned from trait means), and with such correlated traits PCA cannot separate size from shape.
 5. **Basis for further analysis:** these performance tiers give the selection targets that are explored interactively in the Shiny dashboard (Project 5).
 
+---
+---
+<div align="center">
+
+**Data → Code → Decision → Results**
+
+*Research Repeat & Reproduce.*
